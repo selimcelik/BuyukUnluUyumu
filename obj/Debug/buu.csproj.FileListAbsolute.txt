@@ -1,0 +1,7 @@
+C:\Users\selim\source\repos\buu\buu\bin\Debug\buu.exe.config
+C:\Users\selim\source\repos\buu\buu\bin\Debug\buu.exe
+C:\Users\selim\source\repos\buu\buu\bin\Debug\buu.pdb
+C:\Users\selim\source\repos\buu\buu\obj\Debug\buu.csprojAssemblyReference.cache
+C:\Users\selim\source\repos\buu\buu\obj\Debug\buu.csproj.CoreCompileInputs.cache
+C:\Users\selim\source\repos\buu\buu\obj\Debug\buu.exe
+C:\Users\selim\source\repos\buu\buu\obj\Debug\buu.pdb
